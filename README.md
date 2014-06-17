@@ -1,6 +1,9 @@
 # AutoCrypt
 
-Download the virtual machine for AutoCrypt from the following link:
+AutoCrypt is a tool which transforms existing C/C++ applications like those in the Unix CoreUtils package to operate on encrypted
+sensitive content. 
+
+The virtual machine for Autocrypt can be obtained from the following link:
 ```
 ftp://andromeda.d2.comp.nus.edu.sg/www/AutoCrypt.zip
 username : autocrypt
@@ -17,4 +20,4 @@ AutoCrypt.zip includes the following :
 
 Software Requirements for Installation:
 
-* Virtual Box or any other virualization software to import AutoCrypt.ova file.
+* Virtual Box to import AutoCrypt.ova file.
