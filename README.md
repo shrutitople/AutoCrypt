@@ -2,7 +2,9 @@
 
 Download the virtual machine for AutoCrypt from the following link:
 ```
-ftp 
+ftp://andromeda.d2.comp.nus.edu.sg/www/AutoCrypt.zip
+username : autocrypt
+password : autocrypt@nus
 
 ```
 
