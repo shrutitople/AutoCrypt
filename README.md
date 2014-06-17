@@ -15,6 +15,6 @@ AutoCrypt.zip includes the following :
 * README.pdf - A step by step installation guide for setting up the virtual machine and using AutoCrypt tool.
 
 
-Requirements :
+Software Requirements for Installation:
 
 * Virtual Box or any other virualization software to import AutoCrypt.ova file.
