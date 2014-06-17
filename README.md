@@ -1,4 +1,4 @@
-# AutoCrypt Installation
+# AutoCrypt
 
 Download the virtual machine for AutoCrypt from the following link:
 ```
