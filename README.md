@@ -5,10 +5,7 @@ sensitive content.
 
 The virtual machine for Autocrypt can be obtained from the following link:
 ```
-ftp://andromeda.d2.comp.nus.edu.sg/www/AutoCrypt.zip
-username : autocrypt
-password : autocrypt
-
+https://drive.google.com/open?id=0B0hcZgrRtv8MYU9WcU5yWmN2eVE
 ```
 
 AutoCrypt.zip includes the following :
